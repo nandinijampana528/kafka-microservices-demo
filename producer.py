@@ -24,4 +24,4 @@ for i in range(1, 4):
 
 # Force send any buffered messages
 producer.flush()
-print("✅ All orders sent to Kafka successfully!"
+print("✅ All orders sent to Kafka successfully!")
